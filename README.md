@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on everything.
 - 📫 You can reach me on [LinkedIn
 ](https://www.linkedin.com/in/rokas-razutis-94b21a257/)
-- [Jokes On You!
-  100% Solar Powered React app
+- 😆 [Jokes On You! 100% Solar Powered React App 🌞
 ](https://jokes-on-you.trikampis.online/)
 <!---
 RokasSweets/RokasSweets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
